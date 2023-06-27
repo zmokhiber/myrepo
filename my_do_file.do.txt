@@ -1,0 +1,4 @@
+#this is a do file
+use auto.dta
+
+reg mpg wt
